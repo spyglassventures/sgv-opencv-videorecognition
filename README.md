@@ -3,7 +3,7 @@ Python based script to solve the problem of how to stream RTSP and run Open CV
 
 # My Street
 <p align="center">
-<img src="mystreet.jpg" width="80% title="Input">
+<img src="mystreet.PNG" width="80% title="Input">
 </p>
 
 # Drake Yolo(5)
