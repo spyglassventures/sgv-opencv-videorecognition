@@ -18,7 +18,7 @@ Python based script to solve the problem of how to stream RTSP and run Open CV
                                                 
 # Zurich Video Trams
 <p align="center">
-<img src="mystreet.PNG" width="80% title="Input">
+<img src="Paradeplatz.PNG" width="80% title="Input">
 </p>
 
 # Zurich in the past
@@ -31,7 +31,11 @@ Python based script to solve the problem of how to stream RTSP and run Open CV
 <p align="center">
 <img src="Paradeplatz.PNG" width="80% title="Input">
 </p>
-
+                                                   
+# Cows
+<p align="center">
+<img src=".PNG" width="80% title="Input">
+</p>
 
 
 
