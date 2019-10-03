@@ -16,18 +16,13 @@ Python based script to solve the problem of how to stream RTSP and run Open CV
 <img src="Drake_Bottle.PNG " width="80% title="Input">                                         
 </p>
                                                 
-# Zurich Video Trams
-<p align="center">
-<img src="Paradeplatz.PNG" width="80% title="Input">
-</p>
-
 # Zurich in the past
 <p align="center">
 <img src="Zurich_old.PNG" width="80% title="Input">
 <img src="Zurich_old_Bahnhofstrassse.PNG" width="80% title="Input">                                                 
 </p>
 
-# Zurich Video Paradeplatz
+# Zurich Paradeplatz
 <p align="center">
 <img src="Paradeplatz.PNG" width="80% title="Input">
 </p>
